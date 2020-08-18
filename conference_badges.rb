@@ -8,5 +8,5 @@ end
  
 def assign_rooms(speaker)
  new_arr = []
- 
+ speaker.
 end
