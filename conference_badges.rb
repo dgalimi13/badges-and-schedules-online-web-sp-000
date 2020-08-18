@@ -11,6 +11,6 @@ end
 def assign_rooms(input)
   arr = []
   
-  input.each_with_index{|name, index + 1| arr << "Hello, #{name}! You'll be assigned to room #{index}!"}
+  input.each_with_index{|name, index| arr << "Hello, #{name}! You'll be assigned to room #{index}!"}
   arr
 end
