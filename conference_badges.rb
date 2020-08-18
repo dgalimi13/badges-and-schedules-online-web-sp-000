@@ -14,6 +14,6 @@ end
 new_arr
 end
 
-def printer
+def printer(attendees)
   
 end
