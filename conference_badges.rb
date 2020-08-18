@@ -8,3 +8,6 @@ array.each{|name| new_array << "Hello, my name is #{name}."}
 new_array
 end
 
+def assign_rooms
+  
+end
