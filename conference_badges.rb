@@ -17,5 +17,5 @@ end
 
 def printer(input)
 badge_maker(name)
- assign_rooms(input)
+
 end
