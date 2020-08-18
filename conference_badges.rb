@@ -15,6 +15,6 @@ def assign_rooms(input)
 end
 
 def printer(input)
-
+input.each{|line| 
 
 end
