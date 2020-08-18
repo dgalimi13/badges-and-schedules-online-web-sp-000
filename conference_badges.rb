@@ -17,5 +17,5 @@ end
 
 def printer(input)
   name = gets
-  badge_maker(gets)
+ 
 end
