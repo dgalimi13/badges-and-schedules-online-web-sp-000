@@ -2,6 +2,6 @@ def badge_maker(name)
   return "Hello, my name is #{name}."
 end
 
-def batch_badge_creator(name)
-  name.each{|message| return "Hello, my name is #{message}}"
+def batch_badge_creator(array)
+
 end
