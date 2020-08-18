@@ -6,7 +6,7 @@ def batch_badge_creator(names)
   names.map{ |name| badge_maker(name)}
 end
  
-def assign_rooms(speaker)
+def assign_rooms(speakers)
  new_arr = []
- speaker.
+ speakers.each_with_index
 end
