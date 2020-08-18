@@ -13,7 +13,3 @@ def assign_rooms(input)
  arr
 end
 
-def printer(attendees)
-batch_badge_creator(attendees).each{|badge| puts badge}
-
-end
