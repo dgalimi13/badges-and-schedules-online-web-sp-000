@@ -15,6 +15,6 @@ def assign_rooms(input)
 end
 
 def printer(input)
-puts batch_badge_creator(input)
+puts badge_maker(input)
 
 end
