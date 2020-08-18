@@ -15,6 +15,6 @@ def assign_rooms(input)
   arr
 end
 
-def printer
+def printer(input)
   
 end
