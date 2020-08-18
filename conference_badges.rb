@@ -9,5 +9,8 @@ new_array
 end
 
 def assign_rooms(input)
-  
+  arr = []
+  counter = 1
+  input.each{|name| arr << "Hello, #{name}! You'll be assigned to room #{counter}!"
+  counter += 1
 end
