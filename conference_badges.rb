@@ -10,8 +10,8 @@ end
 
 def assign_rooms(input)
   arr = []
-  counter = 1
-  input.each_with_index{|name| arr << "Hello, #{name}! You'll be assigned to room #{counter}!"}
-  counter += 1 
+  
+  input.each_with_index{|name, index| arr << "Hello, #{name}! You'll be assigned to room #{index}!"}
+  
   arr
 end
